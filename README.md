@@ -28,10 +28,10 @@
 
 
 ### Los comandos que use en esta practica
-npx create-react-app fase1-react
-npx create-react-app fase2-react
-npx create-next-app@latest fase3-nextjs
-npm run dev
+- npx create-react-app fase1-react
+- npx create-react-app fase2-react
+- npx create-next-app@latest fase3-nextjs
+- npm run dev
 
 
 
