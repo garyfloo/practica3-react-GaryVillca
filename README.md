@@ -16,7 +16,7 @@
 - Las pruebas estan en las imagenes
 - Probé cómo React vuelve a renderizar automáticamente cuando el estado cambia
 
-## fase2
+## fase3
 **Creé el proyecto con:**
 
 - npx create-next-app@latest fase3-nextjs
