@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.app { max-width: 600px; margin: 0 auto; }
+li { margin: 8px 0; }
+button.del { margin-left: 8px; }
